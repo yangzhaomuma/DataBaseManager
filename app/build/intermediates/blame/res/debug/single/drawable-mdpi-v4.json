@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DataBaseDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\DataBaseDemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DataBaseManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\DataBaseManager\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

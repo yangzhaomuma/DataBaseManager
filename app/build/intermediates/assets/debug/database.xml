@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 数据库定义 -->
+
+<Database
+    name="databaseMe.db"
+    version="1" >
+
+    <!-- 交易数据保存 -->
+
+    <table
+        name="Mydata"
+        primaryKey="id" >
+
+        <field name="id"  /> <!-- 主键,只能自增长的integer -->
+
+        <field name="name"  /> 
+        
+        <field name="adress" /> 
+        
+    </table>
+
+</Database>

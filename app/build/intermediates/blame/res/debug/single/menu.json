@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DataBaseDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\DataBaseDemo1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\DataBaseManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\DataBaseManager\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

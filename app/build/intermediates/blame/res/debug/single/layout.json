@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DataBaseDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\DataBaseDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\DataBaseManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\DataBaseManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
